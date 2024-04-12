@@ -1,0 +1,12 @@
+C:\Users\RAHAMATH\Documents\Visual Studio 2012\Projects\EmailInterface\EmailInterface\bin\Debug\EmailInterface.exe
+C:\Users\RAHAMATH\Documents\Visual Studio 2012\Projects\EmailInterface\EmailInterface\bin\Debug\EmailInterface.pdb
+C:\Users\RAHAMATH\Documents\Visual Studio 2012\Projects\EmailInterface\EmailInterface\obj\Debug\EmailInterface.csprojResolveAssemblyReference.cache
+C:\Users\RAHAMATH\Documents\Visual Studio 2012\Projects\EmailInterface\EmailInterface\obj\Debug\MainWindow.baml
+C:\Users\RAHAMATH\Documents\Visual Studio 2012\Projects\EmailInterface\EmailInterface\obj\Debug\MainWindow.g.cs
+C:\Users\RAHAMATH\Documents\Visual Studio 2012\Projects\EmailInterface\EmailInterface\obj\Debug\App.g.cs
+C:\Users\RAHAMATH\Documents\Visual Studio 2012\Projects\EmailInterface\EmailInterface\obj\Debug\EmailInterface_MarkupCompile.cache
+C:\Users\RAHAMATH\Documents\Visual Studio 2012\Projects\EmailInterface\EmailInterface\obj\Debug\EmailInterface.g.resources
+C:\Users\RAHAMATH\Documents\Visual Studio 2012\Projects\EmailInterface\EmailInterface\obj\Debug\EmailInterface.Properties.Resources.resources
+C:\Users\RAHAMATH\Documents\Visual Studio 2012\Projects\EmailInterface\EmailInterface\obj\Debug\EmailInterface.csproj.GenerateResource.Cache
+C:\Users\RAHAMATH\Documents\Visual Studio 2012\Projects\EmailInterface\EmailInterface\obj\Debug\EmailInterface.exe
+C:\Users\RAHAMATH\Documents\Visual Studio 2012\Projects\EmailInterface\EmailInterface\obj\Debug\EmailInterface.pdb
